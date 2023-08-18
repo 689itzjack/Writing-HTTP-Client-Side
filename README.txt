@@ -5,6 +5,12 @@ HTTP CLIENT SIDE
 
 ===Description ===
 
+- Constructs an HTTP request based on user’s command line input and sends the request to a Web server.
+- Receives the reply from the server, and displays the reply message on screen
+
+An HTTP client that constructs an HTTP request based on user’s command line input, sends the request
+to a Web server, receives the reply from the server, and displays the reply message on screen. Support only IPv4 connections.
+
 Program files:
 client.c - file that implementaion a  request server and its actions.
 
